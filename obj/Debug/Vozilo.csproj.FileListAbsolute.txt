@@ -1,0 +1,3 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Vozilo\obj\Debug\Vozilo.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Vozilo\obj\Debug\Vozilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
